@@ -17,7 +17,7 @@ export const HeroSection = () => {
         <div className="max-w-4xl mx-auto text-center">
           <h1 className="text-4xl lg:text-6xl font-bold mb-6 tracking-tight">
             AI-Driven Animal Type 
-            <span className="block text-primary-glow">Classification Software</span>
+            <span className="block bg-gradient-grey bg-clip-text text-transparent">Classification Software</span>
           </h1>
           
           <p className="text-xl lg:text-2xl mb-8 opacity-90 leading-relaxed">

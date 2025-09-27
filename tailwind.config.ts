@@ -71,6 +71,7 @@ export default {
         "gradient-primary": "var(--gradient-primary)",
         "gradient-hero": "var(--gradient-hero)",
         "gradient-earth": "var(--gradient-earth)",
+        "gradient-grey": "var(--gradient-grey)",
       },
       boxShadow: {
         "soft": "var(--shadow-soft)",
