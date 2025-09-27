@@ -40,33 +40,33 @@ export const HeroSection = () => {
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
             <Card className="bg-white/10 backdrop-blur-sm border-white/20">
               <CardContent className="p-6 text-center">
-                <FileImage className="w-8 h-8 mx-auto mb-4 text-primary-glow" />
-                <h3 className="font-semibold mb-2">Image Analysis</h3>
-                <p className="text-sm opacity-90">Advanced computer vision for precise trait extraction</p>
+                <FileImage className="w-8 h-8 mx-auto mb-4 text-white" />
+                <h3 className="font-semibold mb-2 text-white">Image Analysis</h3>
+                <p className="text-sm opacity-90 text-white">Advanced computer vision for precise trait extraction</p>
               </CardContent>
             </Card>
             
             <Card className="bg-white/10 backdrop-blur-sm border-white/20">
               <CardContent className="p-6 text-center">
-                <Brain className="w-8 h-8 mx-auto mb-4 text-primary-glow" />
-                <h3 className="font-semibold mb-2">AI Classification</h3>
-                <p className="text-sm opacity-90">Automated ATC scoring with scientific accuracy</p>
+                <Brain className="w-8 h-8 mx-auto mb-4 text-white" />
+                <h3 className="font-semibold mb-2 text-white">AI Classification</h3>
+                <p className="text-sm opacity-90 text-white">Automated ATC scoring with scientific accuracy</p>
               </CardContent>
             </Card>
             
             <Card className="bg-white/10 backdrop-blur-sm border-white/20">
               <CardContent className="p-6 text-center">
-                <Database className="w-8 h-8 mx-auto mb-4 text-primary-glow" />
-                <h3 className="font-semibold mb-2">Data Management</h3>
-                <p className="text-sm opacity-90">Secure storage and comprehensive export options</p>
+                <Database className="w-8 h-8 mx-auto mb-4 text-white" />
+                <h3 className="font-semibold mb-2 text-white">Data Management</h3>
+                <p className="text-sm opacity-90 text-white">Secure storage and comprehensive export options</p>
               </CardContent>
             </Card>
             
             <Card className="bg-white/10 backdrop-blur-sm border-white/20">
               <CardContent className="p-6 text-center">
-                <Camera className="w-8 h-8 mx-auto mb-4 text-primary-glow" />
-                <h3 className="font-semibold mb-2">Field Ready</h3>
-                <p className="text-sm opacity-90">Mobile interface with offline capabilities</p>
+                <Camera className="w-8 h-8 mx-auto mb-4 text-white" />
+                <h3 className="font-semibold mb-2 text-white">Field Ready</h3>
+                <p className="text-sm opacity-90 text-white">Mobile interface with offline capabilities</p>
               </CardContent>
             </Card>
           </div>
